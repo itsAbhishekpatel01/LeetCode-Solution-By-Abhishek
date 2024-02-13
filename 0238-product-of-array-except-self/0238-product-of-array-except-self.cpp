@@ -23,6 +23,10 @@ public:
         Do array banake prefix product aur postfix product nikal liya hai
         Fir har index ke liye us index ke phle tak ka prefix and next index 
         tak ke postfix ka product ko ans me push krte jana hai
+        iski time complexity O(n) 
+        and space complexity O(n)
+        hai
+        lekin hum space complexity ko aur bhi kam kar sakte hain
         */
     }
 };
